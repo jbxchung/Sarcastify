@@ -1,0 +1,11 @@
+{
+  "name": "Sarcastify",
+  "version": "1.0",
+  "description": "Copy text a la Sarcastic Spongebob",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["script.js"],
+    "persistent": false
+  },
+  "manifest_version": 2
+}
